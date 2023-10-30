@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: rgb (280,250,200)
+}
+
+
+
+
+#ima1 {
+    display:block;
+    margin: 0% auto;
+    width: 27%;
+
+}
+
+
+#ima2 {
+    display:block;
+    margin: 0% auto;
+    width: 27%;
+
+}
+
+
+body {
+    background-color:rgb(240, 200, 141);
+margin: 0;
+padding: 0;
+
+
+}
